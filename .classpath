@@ -8,5 +8,6 @@
 	<classpathentry kind="lib" path="/opt/apache-artemis-2.2.0/lib/geronimo-jms_2.0_spec-1.0-alpha-2.jar"/>
 	<classpathentry kind="lib" path="/opt/apache-artemis-2.2.0/lib/netty-all-4.1.9.Final.jar"/>
 	<classpathentry kind="lib" path="lib/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-remote-naming-2.0.5.Final.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
